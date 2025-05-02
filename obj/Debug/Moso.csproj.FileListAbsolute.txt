@@ -1,0 +1,10 @@
+D:\0.C_sharp\1. DevCsharp\Moso\Moso\bin\Debug\Moso.exe.config
+D:\0.C_sharp\1. DevCsharp\Moso\Moso\bin\Debug\Moso.exe
+D:\0.C_sharp\1. DevCsharp\Moso\Moso\bin\Debug\Moso.pdb
+D:\0.C_sharp\1. DevCsharp\Moso\Moso\obj\Debug\Moso.csproj.AssemblyReference.cache
+D:\0.C_sharp\1. DevCsharp\Moso\Moso\obj\Debug\Moso.Form1.resources
+D:\0.C_sharp\1. DevCsharp\Moso\Moso\obj\Debug\Moso.Properties.Resources.resources
+D:\0.C_sharp\1. DevCsharp\Moso\Moso\obj\Debug\Moso.csproj.GenerateResource.cache
+D:\0.C_sharp\1. DevCsharp\Moso\Moso\obj\Debug\Moso.csproj.CoreCompileInputs.cache
+D:\0.C_sharp\1. DevCsharp\Moso\Moso\obj\Debug\Moso.exe
+D:\0.C_sharp\1. DevCsharp\Moso\Moso\obj\Debug\Moso.pdb
